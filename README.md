@@ -2,6 +2,12 @@
 
 A utility package providing functions to convert English numerals and date-time to Bengali numerals and date-time representations in React applications.
 
+<p align="center">
+    <a href="https://www.npmjs.com/package/react-en-bn">
+        <img src="https://img.shields.io/npm/dt/react-en-bn.svg" alt="Total Downloads">
+    </a>
+</p>
+
 ## Installation
 
 You can install this package via npm or yarn:
